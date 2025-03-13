@@ -5,7 +5,7 @@
     "dhis": {
       "href": "..",
       "auth": "admin:district",
-      "devHref": "http://localhost:8080"
+      "devHref": "https://test.e2e.dhis2.org/analytics-dev"
     }
   },
   "appType": "APP",
@@ -18,5 +18,5 @@
   "icons": {
     "48": "icon.png"
   },
-  "manifest_generated_at": "Sun Feb 16 2025 01:51:56 GMT+0000 (Coordinated Universal Time)"
+  "manifest_generated_at": "Thu Mar 13 2025 12:57:58 GMT+0000 (Coordinated Universal Time)"
 }
