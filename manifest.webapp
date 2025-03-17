@@ -3,20 +3,19 @@
   "default_locale": "en",
   "activities": {
     "dhis": {
-      "href": "..",
-      "auth": "admin:district",
-      "devHref": "https://test.e2e.dhis2.org/analytics-dev"
+      "href": "*"
     }
   },
   "appType": "APP",
   "name": "DHIS2 event visualizer app",
-  "version": "33.1.2",
+  "version": "33.2.0",
   "description": "Event charts app",
   "developer": {
-    "name": "DHIS2 visualization team"
+    "name": "Jan Henrik Øverland"
   },
+  "short_name": "event-visualizer",
   "icons": {
-    "48": "icon.png"
+    "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Mon Mar 17 2025 19:48:21 GMT+0000 (Coordinated Universal Time)"
+  "manifest_generated_at": "Mon Mar 17 2025 20:53:35 GMT+0000 (Coordinated Universal Time)"
 }
