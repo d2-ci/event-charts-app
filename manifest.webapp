@@ -1,0 +1,21 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "appType": "APP",
+  "name": "DHIS2 event visualizer app",
+  "version": "33.2.3",
+  "description": "Event charts app",
+  "short_name": "event-visualizer",
+  "icons": {
+    "48": "dhis2-app-icon.png"
+  },
+  "developer": {
+    "name": "DHIS2"
+  },
+  "manifest_generated_at": "Wed Sep 24 2025 12:55:11 GMT+0000 (Coordinated Universal Time)"
+}
