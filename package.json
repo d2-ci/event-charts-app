@@ -48,7 +48,7 @@
     "style-loader": "0.12.3",
     "url-loader": "^0.5.7",
     "webpack": "1.12.9",
-    "webpack-dev-server": "1.14.0"
+    "webpack-dev-server": "3.1.11"
   },
   "manifest.webapp": {
     "short_name": "event-visualizer",
